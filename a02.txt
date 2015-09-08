@@ -5,7 +5,7 @@ drugi commit
 loc
 commit zdalny
 aaa
-bbb
+bbbaaaaaaaaaa
 ccc
 rem
 ddd
