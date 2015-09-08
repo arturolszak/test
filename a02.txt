@@ -2,9 +2,9 @@ sasasasas
 add
 hej ho test idea
 drugi commit
-loc
 commit zdalny
 aaa
+bbbwwwwwwwww
 bbbaaaaaaaaaa
 ccc
 rem
