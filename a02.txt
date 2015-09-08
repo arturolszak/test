@@ -6,4 +6,5 @@ commit zdalny
 aaa
 bbb
 ccc
+rem
 ddd
