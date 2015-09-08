@@ -4,7 +4,7 @@ hej ho test idea
 drugi commit
 commit zdalny
 aaa
-bbb
+bbbwwwwwwwww
 ccc
 rem
 ddd
